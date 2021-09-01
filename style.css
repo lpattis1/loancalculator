@@ -1,0 +1,12 @@
+#loading {
+  display: none;
+  margin-top: 8px;
+}
+
+#results {
+  display: none;
+}
+
+.show {
+  display: block !important;
+}
